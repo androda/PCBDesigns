@@ -1,0 +1,30 @@
+Parts you will need to assemble:
+
+* One STM32F103C8T6 "Blue Pill" board.  These are pretty widely available.  Follow the instructions in the BlueSCSI repo for setting up your Blue Pill board.
+** https://stm32-base.org/boards/STM32F103C8T6-Blue-Pill.html
+
+* One DPAK voltage regulator such as:
+** https://www.digikey.com/en/products/detail/on-semiconductor/NCP1117DT285G/1483316
+** Sipex AS1117R-2.85
+
+* 18 110 ohm resistors, 0603 size, such as:
+** https://www.digikey.com/en/products/detail/koa-speer-electronics-inc/RK73H1JTTD1100F/9845061
+
+* Two capacitors of at least the required rating for your voltage regulator.  I used:
+** https://www.digikey.com/en/products/detail/panasonic-electronic-components/EEE-FPC470UAR/1700985
+
+* The MicroSD card slot, a Hirose DM3AT such as:
+** https://www.digikey.com/en/products/detail/hirose-electric-co-ltd/DM3AT-SF-PEJM5/2533566
+
+* One two-position 2.54mm pin header such as:
+** https://www.digikey.com/en/products/detail/sullins-connector-solutions/PRPC002SAAN-RC/2775252
+
+* One three-position 2.54mm pin header such as:
+** https://www.digikey.com/en/products/detail/metz-connect-usa-inc/PR20203VBNN/7794768
+
+* One 40-pin 2x20 2.0mm right angle pin header.  I ordered these:
+** https://www.ebay.com/itm/20pc-Pitch-2-0mm-2mm-90-Right-Angle-Male-Pin-Header-Dual-Row-2x20P-2x20-40P/133167939616
+
+In addition, you will need something like solder paste, a hot air gun, tweezers... This isn't the easiest to assemble yourself without some tools because of those tiny 0603 resistors.
+
+
