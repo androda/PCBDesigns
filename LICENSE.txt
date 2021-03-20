@@ -1,0 +1,5 @@
+Copyright (c) 2021 androda.work
+
+All files in this repository are free for personal use.  Commercial use / resale is not allowed.
+
+These files are offered AS IS with no warranty of any kind, express or implied.
