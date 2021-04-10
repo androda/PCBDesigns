@@ -7,7 +7,7 @@ Tested on:
 * PowerBook 540, boots 7.5.3 rascsi image
 * PowerBook 520 with PPC upgrade, boots 7.5.3 rascsi image
 
-Note that testing with termination resistor removed didn't work at all in my powerbook 180.  The termination design isn't perfect and the board might not work at all with termination disabled.  You have been warned, and are reminded that these board design files are offered as-is with no warranty at all.
+Note that testing with termination jumper removed didn't work at all in my powerbook 180.  The termination design isn't perfect and the board might not work at all with termination disabled.  You have been warned, and are reminded that these board design files are offered as-is with no warranty at all.
 
 Height clearance can be a problem, you may need to bend the boot selector jumpers.
 
