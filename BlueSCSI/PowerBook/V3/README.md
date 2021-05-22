@@ -8,7 +8,7 @@ Big Changes:
  * 0 means no jumper
  * 0001 is termination fully disabled and all pins isolated, labeled OFF
  * 0010 is Short Cable termination (good for powerbooks), labeled SC, 1mA termination current
- * 1101 is Normal Termination, labeled ON, full 24mA termination current
+ * 1100 is Normal Termination, labeled ON, full 24mA termination current
 
 Tested on:
 * PowerBook 180, boots 7.5.3 rascsi image
