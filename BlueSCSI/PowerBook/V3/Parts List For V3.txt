@@ -1,0 +1,27 @@
+Parts you will need to assemble:
+
+* One STM32F103C8T6 "Blue Pill" board.  These are pretty widely available.  Follow the instructions in the BlueSCSI repo for setting up your Blue Pill board.
+** https://stm32-base.org/boards/STM32F103C8T6-Blue-Pill.html
+
+* Two UCC56056DP chips, these are available new-old-stock from a few places
+
+* Three 4.7uF capacitors, 0603 size
+
+* Two 80k to 100k resistors (I used 90.9k), 0603 size
+
+* The MicroSD card slot, a Molex 105162-0001 such as:
+** Mouser part number 538-105162-0001
+** https://www.digikey.com/en/products/detail/molex/1051620001/4555282
+
+* Some 2.54mm header strip to split into 3-wide and two 4-wide segments
+
+* 2.54mm jumpers
+
+* One 40-pin 2x20 2.0mm right angle pin header.  I ordered these:
+** https://www.ebay.com/itm/20pc-Pitch-2-0mm-2mm-90-Right-Angle-Male-Pin-Header-Dual-Row-2x20P-2x20-40P/133167939616
+
+In addition, you will need something like solder paste, a hot air gun, tweezers... This isn't the easiest to assemble yourself without some tools because of the tiny 0603 parts.
+
+If you are using metal mounting screws, print out the mounting screw gasket and put it under the screw which sits between the 5606 chips.
+
+
