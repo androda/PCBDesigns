@@ -7,7 +7,7 @@ Tested on (with termination enabled):
 * Quadra 700, boots RaSCSI 7.5.3 image
 * Beige G3 Minitower, boots Mac OS 9.2 (copied my boot drive onto it)
 
-^ All of the above tests were run with the BlueSCSI™ as the only internal hard drive.
+^ All of the above tests were run with the BlueSCSI™ as the only internal hard drive.  Except in the case of the G3, in that case the Mac OS 9.2 install was copied off a bootable SATA drive.
 
 Termination is of the 'active' style, hence the voltage regulator and resistors.  Unknown if it works with termination disabled, so just leave it on unless you feel like testing that.  The bus is supposed to be terminated anyway.
 
