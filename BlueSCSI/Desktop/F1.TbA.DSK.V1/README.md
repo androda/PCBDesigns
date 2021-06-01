@@ -5,7 +5,7 @@ Tested on (with termination enabled):
 * LC III, boots RaSCSI 7.5.3 image
 * Mac IIci, boots RaSCSI 7.5.3 image
 * Quadra 700, boots RaSCSI 7.5.3 image
-* Beige G3 Minitower, boots RaSCSI 7.5.3 image
+* Beige G3 Minitower, boots Mac OS 9.2 (copied my boot drive onto it)
 
 ^ All of the above tests were run with the BlueSCSI™ as the only internal hard drive.
 
