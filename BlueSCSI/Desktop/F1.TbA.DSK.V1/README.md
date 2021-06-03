@@ -18,11 +18,11 @@ Note that the 'USB Here' silkscreen marker, USB port on the blue pill goes on th
 There are two three-pin-wide jumper blocks, with labels SCSI and Floppy
 
 * Jumper between SCSI port and berg floppy connector controls which power source is used to run the SCSI emulator CPU
- * It's a tight fit
- * SCSI side uses term power line from the SCSI cable
- * Floppy side uses floppy power connector
+    * It's a tight fit
+    * SCSI side uses term power line from the SCSI cable
+    * Floppy side uses floppy power connector
 * Jumper over nearer the USB port on the little blue module controls which power source is used to run the scsi bus terminator
- * SCSI side uses term power line from SCSI cable
- * Floppy side uses floppy power
+    * SCSI side uses term power line from SCSI cable
+    * Floppy side uses floppy power
 
 You are reminded that this design is offered without warranty of any kind.
