@@ -12,12 +12,13 @@ Big Changes:
 
 Tested on:
 * PowerBook 180, boots 7.5.3 rascsi image
+* PowerBook 540, boots 7.5.3 rascsi image
 
-Seems likely to work with the 5x0 series like V2, I just don't actually own any 5x0 to test on.  As always, compatibility cannot be guaranteed.
+As always, compatibility cannot be guaranteed.
 
 Height clearance can be a problem, you may need to bend the boot selector jumpers.
 
-Note that the 'USB Here' silkscreen is under where the SD card holder goes.  USB port on the blue pill goes on that end.  The other way to say it is that the programming headers on the blue pill are on the same end as the 40 pin hard drive connector.
+Note the 'USB Here' silkscreen, the USB port on the blue pill goes on that end.  The other way to say it is that the programming headers on the blue pill are on the same end as the 40 pin hard drive connector.
 
 For the three-pin connector, bridge the L side to use Logic Power, or M to use Motor Power.  Some laptops may require the M setting.
 
