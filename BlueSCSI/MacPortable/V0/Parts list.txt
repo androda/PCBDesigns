@@ -1,0 +1,32 @@
+Parts you will need to assemble:
+
+* One STM32F103C8T6 "Blue Pill" board.  These are pretty widely available.  Follow the instructions in the BlueSCSI repo for setting up your Blue Pill board.
+** https://stm32-base.org/boards/STM32F103C8T6-Blue-Pill.html
+
+* One 2.85v DPAK voltage regulator such as:
+** https://www.digikey.com/en/products/detail/on-semiconductor/NCP1117DT285G/1483316
+** Sipex AS1117R-2.85
+
+* 18 110 ohm resistors, 0603 size, such as:
+** https://www.digikey.com/en/products/detail/koa-speer-electronics-inc/RK73H1JTTD1100F/9845061
+
+* Two capacitors of at least the required rating for your voltage regulator.  I used:
+** https://www.digikey.com/en/products/detail/panasonic-electronic-components/EEE-FPC470UAR/1700985
+
+* The MicroSD card slot, a Molex 105162-0001 such as:
+** Mouser part number 538-105162-0001
+** https://www.digikey.com/en/products/detail/molex/1051620001/4555282
+
+* A two-pin 2.54mm male header, with corresponding jumper
+
+* A SOD-123F diode, pointing away from the two-pin jumper 
+
+* A 34-pin male connector, two-rows of 17 pins at standard 2.54mm spacing
+** Note the 'notch' indicator, that's where the notch in the connector goes
+
+* A 34-pin female-female cable such as:
+** https://www.ebay.com/itm/271289159396
+
+In addition, you will need something like solder paste, a hot air gun, tweezers... This isn't the easiest to assemble yourself without some tools because of those tiny 0603 resistors.
+
+
