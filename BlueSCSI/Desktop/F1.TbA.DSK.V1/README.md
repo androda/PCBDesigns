@@ -11,8 +11,6 @@ Tested on (with termination enabled):
 
 Termination is of the 'active' style, hence the voltage regulator and resistors.  Unknown if it works with termination disabled, so just leave it on unless you feel like testing that.  The bus is supposed to be terminated anyway.
 
-A 3d printed mount is being designed for these that will be posted once it's ready.
-
 Note that the 'USB Here' silkscreen marker, USB port on the blue pill goes on that end.  So the programming headers are down next to the SD card slot.
 
 There are two three-pin-wide jumper blocks, with labels SCSI and Floppy
