@@ -1,0 +1,17 @@
+Seven 100pF 0805 MLCC capacitors
+
+Two 1uF 0805 MLCC capacitors
+
+Two 0.33uF 0805 MLCC capacitors
+
+One LTC1323CG
+
+One Kycon KMDGX-8S-N 
+
+One Samtec FTE-116-01-G-DV-ES 
+
+One C&K JS102000SAQN switch
+
+One 74AHC1G00 in SOT-23-5 form factor
+
+One printed screw gasket using the included STL
