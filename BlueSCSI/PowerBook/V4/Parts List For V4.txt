@@ -1,0 +1,29 @@
+Parts you will need to assemble:
+
+* One STM32F103C8T6 "Blue Pill" board.  These are pretty widely available.  Follow the instructions in the BlueSCSI repo for setting up your Blue Pill board.
+** https://stm32-base.org/boards/STM32F103C8T6-Blue-Pill.html
+
+* One 2.85 volt DPAK voltage regulator such as:
+** https://www.digikey.com/en/products/detail/on-semiconductor/NCP1117DT285G/1483316
+** Sipex AS1117R-2.85
+
+* 18 110 ohm resistors, 0603 size, such as:
+** https://www.digikey.com/en/products/detail/koa-speer-electronics-inc/RK73H1JTTD1100F/9845061
+
+* Two 1206 size 10uF capacitors with at least a 10 volt rating (higher is better, the below are 25 volt rated)
+** These ones have been working fine for me: TMK316AB7106KL-T
+
+* The MicroSD card slot, a Molex 105162-0001 such as:
+** Mouser part number 538-105162-0001
+** https://www.digikey.com/en/products/detail/molex/1051620001/4555282
+
+* A dual diode in "Dual Common Cathode" topology and package style DFN-2020D-3.  At least 1 amp forward current is preferable, 800mA might be ok
+** I used PMEG2020CPASX
+
+This is where things get pretty specialized.  The SMD to through-hole adapters and 40 pin 2.0mm spacing pin headers are from Aliexpress.
+* SMD to pin headers (1x20 option): https://www.aliexpress.com/item/32779417656.html 
+* 40 pin 2.0mm spacing right-angle connector (2x20 option): https://www.aliexpress.com/item/32744139485.html
+
+The spacing and placement of SMD pads for these will need to be verified against any alternate connector or pin header which you want to try.
+
+
