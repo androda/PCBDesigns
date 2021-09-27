@@ -3,7 +3,7 @@ Parts you will need to assemble:
 * One STM32F103C8T6 "Blue Pill" board.  These are pretty widely available.  Follow the instructions in the BlueSCSI repo for setting up your Blue Pill board.
 ** https://stm32-base.org/boards/STM32F103C8T6-Blue-Pill.html
 
-* Two UCC56056DP chips, these are available new-old-stock from a few places
+* Two UCC5606DP chips, these are available new-old-stock from a few places
 
 * Three 4.7uF capacitors, 0603 size
 
