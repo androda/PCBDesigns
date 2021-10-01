@@ -1,0 +1,8 @@
+* Standard 50 pin SCSI male port
+* 3 optional 0805 4.7uF 10+ volt capacitors
+* Either a normal 2.54mm two-pin header for J6
+* Berg Floppy Connector
+** https://www.digikey.com/en/products/detail/te-connectivity-amp-connectors/171826-4/2187786
+* 2x20 2.0mm spacing SMD headers
+** https://www.aliexpress.com/item/1005001729291538.html
+** These are actually quite easy to solder by hand

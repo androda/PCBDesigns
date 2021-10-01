@@ -1,0 +1,9 @@
+Usage of the adapter is pretty simple.
+Plug in drives and SCSI cable before connecting the berg floppy to power.
+
+* Plug 50-pin male into your usual 50 pin internal SCSI cable.
+* It's critical to line up your powerbook (2.5 inch SCSI) drive such that the missing pin is where the little X mark is
+* Install jumper J6
+* Plug in the Berg Floppy connector
+
+Connectors J3 and J4 are not necessary to install, they are bridges to pass through drive and motor power from another board I designed which most people won't have any use for.
