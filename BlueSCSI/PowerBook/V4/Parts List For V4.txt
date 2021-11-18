@@ -9,6 +9,7 @@ Parts you will need to assemble:
 
 * 18 110 ohm resistors, 0603 size, such as:
 ** https://www.digikey.com/en/products/detail/koa-speer-electronics-inc/RK73H1JTTD1100F/9845061
+* Alternately, use 18 1k ohm resistors of 0603 size, these are working fine in my testing.
 
 * Two 1206 size 10uF capacitors with at least a 10 volt rating (higher is better, the below are 25 volt rated)
 ** These ones have been working fine for me: TMK316AB7106KL-T
