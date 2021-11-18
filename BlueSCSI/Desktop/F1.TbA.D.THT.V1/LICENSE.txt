@@ -1,0 +1,12 @@
+Copyright (c) 2021 Tech by Androda, LLC
+
+All files in this folder are licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 license.  https://creativecommons.org/licenses/by-nc-sa/4.0/
+
+These files are offered AS IS with no warranty of any kind, express or implied.
+
+Board designs shared in this repo use PCB footprints and symbols from the KiCAD built-in symbol library, DigiKey's symbol library, and SnapEDA.  No claim of copyright is made over these symbols or CAD footprints.
+
+KiCAD library license: https://gitlab.com/kicad/libraries/kicad-symbols/-/blob/master/LICENSE.md
+DigiKey library license: https://github.com/Digi-Key/digikey-kicad-library/blob/master/LICENSE.md
+SnapEDA license: https://support.snapeda.com/en/articles/2957814-what-is-the-license-for-symbols-and-footprints
+SnapEDA Design Exception: https://www.snapeda.com/about/FAQ/#designexception
