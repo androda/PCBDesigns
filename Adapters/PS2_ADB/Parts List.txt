@@ -1,0 +1,25 @@
+Parts List For PS2 to ADB Converter
+
+1x PIC12F1840 in through-hole footprint
+    * You need some way to program this, such as a PicKit3 (MPLab Snap did not work for me)
+1x TL3305AF Tact Switch
+    * This is for the ADB keyboard's "power button" function
+    * This tact switch does *not* act like the power button once you computer is turned on
+    * For "power button" function after system is on, use "menu key plus print screen" combination
+1x 4 pin Mini DIN ADB Port, such as KMDGX-4S-BS
+2x 6 pin Mini DIN PS/2 Ports, such as KMDGX-6S-BS (part number I used for testing was Mouser 161-2206 and no longer available)
+3x 0805 size 100nF Capacitors, rated at minimum 10 volts
+    * Alternate through-hole capacitor positions are provided
+    * The rating on these isn't massively important, 100nF to 4.7uF should all work fine as long as 10 volt minimum
+1x 10k Ohm 0805 resistor
+    * Alternate footprint is provided for a through-hole resistor
+1x Diode, either through-hole or SMD (SMA size), preferably Schottky with low forward voltage drop
+1x fuse, either through-hole (Bel 0ZRR0050FF1E) or 0805 SMD size
+
+
+
+
+
+
+
+
