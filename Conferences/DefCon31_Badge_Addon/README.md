@@ -26,4 +26,7 @@
  https://creativecommons.org/licenses/by-nc-sa/4.0/deed.fr
 
 
+Obligatory PCB Image:
+![DefCon 31 Badge Addon PCB Top View](TopOfPCB.jpg)
+
 
